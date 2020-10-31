@@ -1,0 +1,21 @@
+Training Files:
+
+parta_NN.py - to train 1A
+partb.py - to train 1B
+partac_Relu_NN.py -  to train 1C (Part A ReLU activation)
+partbc_Relu_NN.py - to train 1C (Part B ReLU activation)
+Q2a.py - for Q2 (a)
+Q2b.py - for Q2 (b)
+Q3a.py - for Q3 (a) MNIST subset
+Q3b.py - for Q3 (a) MNIST entire dataset
+
+
+Testing Files(for loading of biases and weights and predicting)
+
+test_parta.py - to test 1A
+test_partb.py - to test 1B
+test_partac_relu.py - to test 1c (Part A ReLU activation)
+test_partbc_relu.py - to test 1c (Part B ReLU activation)
+
+
+for other questions, model pickle files are shared on drive.
